@@ -1,1 +1,1 @@
-My little/Fun PyProjects
+small/fun Python projects
