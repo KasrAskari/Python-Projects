@@ -1,7 +1,5 @@
 
-
 # Simple Calculator
-
 
 num1 = float(input("Type the first number: "))
 num2 = float(input("Type the second number: "))
